@@ -1,0 +1,70 @@
+/* 
+  This is a SAMPLE File to get you started. Follow the instructions on the project to complete the tasks. 
+  You'll probably need to override some of theese styles.
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #FCFCFE;
+    color: #333;
+}
+
+header {
+    background-color: #370028;
+    color: #fff;
+    padding: 1rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1rem;
+}
+
+.navbar {
+	font-family: 'Poppin', sans-serif;
+  }
+
+main {
+    padding: 2rem;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+}
+
+.login-button {
+    margin-left: 25rem;
+    padding: 6px 10px;
+    background-color: #be389b;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.login-button:hover {
+    background-color: #6c195f;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    font-size: 0.9em;
+}
+
+
